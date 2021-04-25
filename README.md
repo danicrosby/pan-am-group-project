@@ -3,7 +3,7 @@
 ### Product Owner
 Your PO is assigned as an approver and feedback for your application. They are not there to guide you through code. If you have code related needs, submit a completed issue ticket.
 
-PO: ** Miss Trinity **
+PO: Trinity Christiana
 
 ## Welcome To Pan-Am Express! 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f09567c6-ac4d-407d-bd2c-ed2beef53121/deploy-status)](https://app.netlify.com/sites/pan-am-2021/deploys)
@@ -12,10 +12,6 @@ PO: ** Miss Trinity **
 Welcome to PanAm Express!  With some new funding, PanAm has been revived after dissolving in 1991, and unfortunately, their website didn't age well.  Fortunately for you, PanAm is hiring you to fix their website.  In order to get their business back off the ground (pun intended), they have requested you build them a dashboard to keep track of the crew, the planes, the airports, and the food provided during flights.  They need to be able to log in to make these changes, as they don't want just anyone from outside the organization to make changes.  They also have requested that their site be fully branded, since nobody in the internet age knows about PanAm.
 
 ### Requirements
-* Complete Planning
-    * Make sure to break down tickets into milestones, include an ERD and a Workflow Diagram of how you will tackle each part of the application
-    * NOTE: This includes setting up a development branch that branches off of the main branch to test your team's code and for review by the PO
-* Set up deployment EARLY and deploy with every milestone so that the PO can see the web interface
 * Add Webpack to the Project
 - Authenticate to perform any actions (CUD)
 - Crew Module
@@ -25,24 +21,21 @@ Welcome to PanAm Express!  With some new funding, PanAm has been revived after d
 - Fully branded webpage
 - Baggage Module
 
-### User Stories
-
-## Functionality Includes:
-
-## Technologies Used: 
-
 ## Loom Video of Pan-Am Express!
 (Loom link HERE)
 
 
 ## Project Screenshots
 
+LucidChart User Flow1: 
+https://app.lucidchart.com/lucidchart/ce6c9252-c7c5-4146-bc36-b9829313d0b9/edit?page=0_0#
+![Screen Shot 2021-04-25 at 10 54 00 AM](https://user-images.githubusercontent.com/68397076/116000122-92c4cf00-a5b4-11eb-8364-f2395bc1dc8d.png)
+
+
 ## Relevant Links
 Deployed for your view pleasure on Netlify:
 https://pan-am-2021.netlify.app/
 
-LucidChart User Flow1: 
-https://app.lucidchart.com/lucidchart/ce6c9252-c7c5-4146-bc36-b9829313d0b9/edit?page=0_0#
 
 LucidChart User Flow2:
 https://lucid.app/lucidchart/1c0422ce-15f5-4db9-a721-d476adfb5c9f/edit?page=0_0#
